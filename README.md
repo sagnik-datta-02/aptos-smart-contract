@@ -58,7 +58,10 @@ The module is deployed at the following address:
 ```
 0x56f769d0aebed213452a886485ae751b434547c6c70d10b21cb9b17470028597
 ```
-Trasnaction Hash : 0x0aa11056f1d2876b747ce89aeba97044f31b645ef8d4a702adcf48cda5da28f6
+Trasnaction Hash : 
+```
+0x0aa11056f1d2876b747ce89aeba97044f31b645ef8d4a702adcf48cda5da28f6
+```
 
 ### Dependencies
 This module depends on the following Aptos framework modules:
